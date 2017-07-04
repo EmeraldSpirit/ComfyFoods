@@ -3,13 +3,13 @@
   "colonyTags" : ["nature"],
   "rarity" : "Common",
   "category" : "seed",
-  "description" : "Blueberries, juicy, sweet, delicious azure spheres.",
+  "description" : "Blueberries, juicy, sweet, delicious azure spheres!",
   "shortdescription" : "Blueberry Seed",
   "objectType" : "farmable",
   "printable" : false,
   "price" : 10,
 
-  "inventoryIcon" : "clueberryseedicon.png",
+  "inventoryIcon" : "blueberryseedicon.png",
 
   "tooltipKind" : "seed",
   "largeImage" : "blueberryseed.png:default.3.0",
